@@ -1,0 +1,404 @@
+,sno,DISTRICT,NAME,WINNERCANDIDATE,WINNERPARTY,WINNERVOTES,WINNERPERCENTAGE,RUNNERUPVOTES,RUNNERUPCANDIDATE,RUNNERUPPARTY,RUNNERUPPERCENTAGE,MARGIN,percentage_margin,POLLING_ON
+0,1,Saharanpur District,Behat,Umar Ali Khan,SP,134513,47.81,96633,Naresh Saini,BJP,34.34,37880,13.47,14 February 2022
+1,2,Saharanpur District,Nakur,Mukesh Choudhary,BJP,104114,38.47,103799,Dharam Singh Saini,SP,38.35,315,0.12,14 February 2022
+2,3,Saharanpur District,Saharanpur Nagar,Rajeev Gumber,BJP,143195,48.85,135761,Sanjay Garg,SP,46.32,7434,2.53,14 February 2022
+3,4,Saharanpur District,Saharanpur,Ashu Malik,SP,107007,41.18,76262,Jagpal Singh,BJP,29.35,30745,11.83,14 February 2022
+4,5,Saharanpur District,Deoband[124],Th. Brijesh Singh,BJP,93890,38.77,86786,Kartikeya Rana,SP,35.83,7104,2.94,14 February 2022
+5,6,Saharanpur District,Rampur Maniharan (SC),Devendra Kumar Nim,BJP,89109,38.37,68516,Ravindra Kumar,BSP,29.5,20593,8.87,14 February 2022
+6,7,Saharanpur District,Gangoh,Kirat Singh,BJP,116582,43.08,93133,Inder Sain,SP,34.42,23449,8.66,14 February 2022
+7,8,Shamli District,Kairana,Nahid Hasan,SP,131035,54.16,105148,Mriganka Singh,BJP,43.46,25887,10.7,10 February 2022
+8,9,Shamli District,Thana Bhawan,Ashraf Ali Khan,RLD,103751,47.47,92945,Suresh Rana,BJP,42.53,10806,4.94,10 February 2022
+9,10,Shamli District,Shamli,Persann Kumar Chaudhary,RLD,103070,48.86,95963,Tejendra Nirwal,BJP,45.49,7107,3.37,10 February 2022
+10,11,Muzaffarnagar District,Budhana,Rajpal Singh Baliyan,RLD,131093,51.28,102783,Umesh Malik,BJP,40.21,28310,11.07,10 February 2022
+11,12,Muzaffarnagar District,Charthawal,Pankaj Kumar Malik,SP,97363,43.82,92029,Sapna Kashyap,BJP,41.42,5334,2.4,10 February 2022
+12,13,Muzaffarnagar District,Purqazi (SC),Anil Kumar,RLD,92672,43.09,86140,Pramod Utwal,BJP,40.05,6532,3.04,10 February 2022
+13,14,Muzaffarnagar District,Muzaffarnagar,Kapil Dev Aggarwal,BJP,111794,49.57,93100,Saurabh Swaroop,RLD,41.28,18694,8.29,10 February 2022
+14,15,Muzaffarnagar District,Khatauli,Vikram Singh Saini,BJP,100651,45.34,84306,Rajpal Singh Saini,RLD,37.98,16345,7.36,10 February 2022
+15,16,Muzaffarnagar District,Meerapur,Chandan Chauhan,RLD,107421,49.57,80041,Prashant Chaudhary,BJP,36.94,27380,12.63,10 February 2022
+16,17,Bijnor District,Najibabad,Tasleem Ahmad,SP,102675,44.14,78905,Kunwar Bharatendu Singh,BJP,33.92,23770,10.22,14 February 2022
+17,18,Bijnor District,Nagina (SC),Manoj Kumar Paras,SP,97155,43.51,70704,Dr. Yashwant,BJP,31.67,26451,11.84,14 February 2022
+18,19,Bijnor District,Barhapur,Kunwar Sushant Singh,BJP,100100,41.58,85755,Kapil Kumar,SP,35.62,14345,5.96,14 February 2022
+19,20,Bijnor District,Dhampur,Ashok Kumar Rana,BJP,81791,39.89,81588,Naeemul Hasan,SP,39.79,203,0.1,14 February 2022
+20,21,Bijnor District,Nehtaur (SC),Omkumar,BJP,77935,38.98,77677,Munshi Ram,RLD,38.86,258,0.12,14 February 2022
+21,22,Bijnor District,Bijnor,Suchi Mausam Chaudhary,BJP,97165,38.54,95720,Neeraj Chaudhary,RLD,37.96,1445,0.58,14 February 2022
+22,23,Bijnor District,Chandpur,Swami Omvesh,SP,90522,40.34,90288,Kamlesh Saini,BJP,40.24,234,0.1,14 February 2022
+23,24,Bijnor District,Noorpur,Ram Awatar Singh,SP,92574,43.27,86509,Chandra Prakash Singh,BJP,40.43,6065,2.84,14 February 2022
+24,25,Moradabad District,Kanth,Kamal Akhtar,SP,134692,49.19,91514,Rajesh Kumar Singh,BJP,33.42,43178,15.77,14 February 2022
+25,26,Moradabad District,Thakurdwara,Navab Jan,SP,134391,48.76,114706,Ajay Pratap Singh,BJP,41.62,19684,7.14,14 February 2022
+26,27,Moradabad District,Moradabad Rural,Mohammad Nasir,SP,114337,56.88,86517,Krishnakant Mishra,BJP,34.34,27820,22.54,14 February 2022
+27,28,Moradabad District,Moradabad Nagar,Ritesh Kumar Gupta,BJP,148384,46.12,147602,Mohd Yusuf Ansari,SP,45.88,782,0.24,14 February 2022
+28,29,Moradabad District,Kundarki,Zia Ur Rahman,SP,125792,46.28,82630,Kamal Prajapati,BJP,30.4,43162,15.88,14 February 2022
+29,30,Moradabad District,Bilari,Md Fahim Irfan,SP,95338,39.92,87728,Parmeshwar Lal Saini,BJP,36.73,7610,3.19,14 February 2022
+30,31,Sambhal District,Chandausi (SC),Gulabo Devi,BJP,112890,49.53,77523,Vimlesh Kumar,SP,34.01,35367,15.52,14 February 2022
+31,32,Sambhal District,Asmoli,Pinki Yadav,SP,111652,42.92,86446,Harendra Kumar,BJP,33.23,25206,9.69,14 February 2022
+32,33,Sambhal District,Sambhal,Iqbal Mehmood,SP,107073,43.73,65376,Rajesh Singhal,BJP,26.7,41697,17.03,14 February 2022
+33,34,Rampur District,Suar,Abdullah Azam,SP,126162,59.19,65059,Haidar Ali Khan,AD(S),30.62,61103,28.57,14 February 2022
+34,35,Rampur District,Chamraua,Naseer Khan,SP,100976,50.34,66686,Mohan Kumar Lodhi,BJP,33.24,34290,17.1,14 February 2022
+35,36,Rampur District,Bilaspur,Baldev Singh Aulakh,BJP,101998,43.17,101691,Amarjit Singh,SP,43.04,307,0.13,14 February 2022
+36,37,Rampur District,Rampur,Azam Khan,SP,131225,59.71,76084,Akash Saxena,BJP,34.62,55141,25.09,14 February 2022
+37,38,Rampur District,Milak (SC),Rajbala Singh,BJP,97948,43.11,92036,Vijay Singh,SP,40.5,5912,2.61,14 February 2022
+38,39,Amroha District,Dhanaura (SC),Rajveer Tarara,BJP,103054,42.29,91629,Vivek Singh,SP,37.6,11425,4.69,14 February 2022
+39,40,Amroha District,Naugawan Sadat,Samarpal Singh,SP,108497,44.38,101957,Devender Nagpal,BJP,41.64,6540,2.74,14 February 2022
+40,41,Amroha District,Amroha,Mehboob Ali,SP,128735,57.43,57699,Ram Singh,BJP,25.74,71036,31.69,14 February 2022
+41,42,Amroha District,Hasanpur,Mahendra Khadagvanshi,BJP,120135,44.67,97753,Mukhya Gurjar,SP,36.35,22382,8.32,14 February 2022
+42,43,Meerut District,Siwalkhas,Gulam Muhammad,RLD,101749,43.52,92567,Maninder Pal,BJP,39.61,9182,3.91,10 February 2022
+43,44,Meerut District,Sardhana,Atul Pradhan,SP,118573,48.75,100373,Sangeet Som,BJP,41.27,18200,7.48,10 February 2022
+44,45,Meerut District,Hastinapur (SC),Dinesh Khatik,BJP,107587,46.72,100275,Yogesh Verma,SP,43.55,7312,3.17,10 February 2022
+45,46,Meerut District,Kithore,Shahid Manzoor,SP,107104,42.19,104924,Satyavir Tyagi,BJP,41.33,2180,0.86,10 February 2022
+46,47,Meerut District,Meerut Cantt,Amit Agrawal,BJP,162032,66.27,43960,Manish Ahlawat,RLD,17.98,118072,48.29,10 February 2022
+47,48,Meerut District,Meerut,Rafiq Ansari,SP,106395,52.77,80330,Kamal Dutt Sharma,BJP,39.84,26065,12.93,10 February 2022
+48,49,Meerut District,Meerut South,Somendra Singh Tomar,BJP,129667,43.46,121725,Md Adil,SP,40.79,7942,2.67,10 February 2022
+49,50,Baghpat District,Chhaprauli,Ajay Kumar Singh,RLD,111880,53.3,82372,Sahender Ramala,BJP,39.24,29508,14.06,10 February 2022
+50,51,Baghpat District,Baraut,Krishan Pal Malik,BJP,90931,46.34,90616,Jaiveer Singh,RLD,46.18,315,0.16,10 February 2022
+51,52,Baghpat District,Baghpat,Yogesh Dhama,BJP,101420,47.37,94687,Mohd Ahmed Hameed,RLD,44.22,6733,3.15,10 February 2022
+52,53,Ghaziabad District,Loni,Nand Kishor Gurjar,BJP,127410,40.44,118734,Madan Bhaiya,RLD,37.68,8676,2.76,10 February 2022
+53,54,Ghaziabad District,Muradnagar,Ajit Pal Tyagi,BJP,169290,61.63,72195,Surendra Kumar,RLD,26.28,97295,35.35,10 February 2022
+54,55,Ghaziabad District,Sahibabad,Sunil Kumar Sharma,BJP,322882,67.03,108047,Amarpal Sharma,SP,22.43,214835,44.6,10 February 2022
+55,56,Ghaziabad District,Ghaziabad,Atul Garg,BJP,150205,61.37,44668,Vishal Verma,SP,18.25,105537,43.12,10 February 2022
+56,57,Ghaziabad District,Modinagar,Manju Shiwach,BJP,113349,50.63,78730,Sudesh Sharma,RLD,35.17,34619,15.46,10 February 2022
+57,58,Hapur District,Dhaulana,Dharmesh Singh Tomar,BJP,125028,44.65,112400,Aslam Ali,SP,40.14,12628,4.51,10 February 2022
+58,59,Hapur District,Hapur (SC),Vijaypal Arthi,BJP,97862,39.69,90828,Gajraj Singh,RLD,36.84,7034,2.85,10 February 2022
+59,60,Hapur District,Garhmukteshwar,Harender Singh Tevatiya,BJP,104113,44.07,77807,Ravindra Chaudhary,SP,32.94,26306,11.13,10 February 2022
+60,61,Gautam Buddha Nagar District,Noida,Pankaj Singh,BJP,244319,70.16,62806,Sunil Choudhary,SP,18.04,181513,52.12,10 February 2022
+61,62,Gautam Buddha Nagar District,Dadri,Tejpal Singh Nagar,BJP,218068,61.64,79850,Rajkumar Bhati,SP,22.57,138218,39.07,10 February 2022
+62,63,Gautam Buddha Nagar District,Jewar,Dhirendra Singh,BJP,117205,50.53,60890,Avtar Singh Bhadana,RLD,26.25,56315,24.28,10 February 2022
+63,64,Bulandshahr District,Sikandrabad,Lakshmi Raj Singh,BJP,125644,46,96301,Rahul Yadav,SP,35.26,29343,10.74,10 February 2022
+64,65,Bulandshahr District,Bulandshahr,Pradeep Kumar Chaudhary,BJP,127026,48.94,101426,Haji Yunus,RLD,38.99,25600,9.95,10 February 2022
+65,66,Bulandshahr District,Syana,Devendra Singh Lodhi,BJP,149125,58.9,59468,Dilnawaj Khan,RLD,23.49,89657,35.41,10 February 2022
+66,67,Bulandshahr District,Anupshahr,Sanjay Kumar Sharma,BJP,125602,52.64,47979,Rameshwar Lodhi,BSP,20.11,77623,32.53,10 February 2022
+67,68,Bulandshahr District,Debai,Chandrapal Singh,BJP,128640,58.6,60615,Harish Kumar[disambiguation needed],SP,27.61,68025,30.99,10 February 2022
+68,69,Bulandshahr District,Shikarpur,Anil Sharma,BJP,113855,53.04,58172,Kiran Pal Singh,RLD,27.1,55683,25.94,10 February 2022
+69,70,Bulandshahr District,Khurja (SC),Minakshi Singh,BJP,137461,52.99,70377,Banshi Singh,SP,27.13,67084,25.86,10 February 2022
+70,71,Aligarh District,Khair (SC),Anoop Pradhan Valmiki,BJP,139643,55.55,65302,Charu Kain,BSP,25.98,74341,29.57,10 February 2022
+71,72,Aligarh District,Barauli,Thakur Jaivir Singh,BJP,147984,60.57,57339,Narendra Kumar Sharma,BSP,23.47,90645,37.1,10 February 2022
+72,73,Aligarh District,Atrauli,Sandeep Kumar Singh,BJP,125691,52.03,86367,Viresh Yadav,SP,35.75,39324,16.28,10 February 2022
+73,74,Aligarh District,Chharra,Ravendra Pal Singh,BJP,110928,45.79,86966,Laxmi Dhangar,SP,35.78,24327,10.01,10 February 2022
+74,75,Aligarh District,Koil,Anil Parashar,BJP,108067,42.81,103039,Shaaz Ishaaq,SP,40.82,5028,1.99,10 February 2022
+75,76,Aligarh District,Aligarh,Mukta Raja,BJP,120389,47.66,107603,Zafar Alam,SP,42.6,12786,5.06,10 February 2022
+76,77,Aligarh District,Iglas (SC),Rajkumar Sahyogi,BJP,127209,52.35,68046,Nirmal Diwakar,RLD,28,59163,24.35,10 February 2022
+77,78,Hathras District,Hathras (SC),Anjula Singh Mahaur,BJP,154655,58.79,53799,Sanjeev Kumar,BSP,20.45,100856,38.34,20 February 2022
+78,79,Hathras District,Sadabad,Pradeep Kumar Singh,RLD,104874,43.25,98437,Ramveer Upadhyay,BJP,40.6,6437,2.65,20 February 2022
+79,80,Hathras District,Sikandra Rao,Birendra Singh Rana,BJP,98094,41.63,89990,Lalit Pratap Baghel,SP,38.19,8104,3.44,20 February 2022
+80,81,Mathura District,Chhata,Chaudhary Laxmi Narayan Singh,BJP,124414,52.18,75466,Tejpal Singh,RLD,31.65,48948,20.53,10 February 2022
+81,82,Mathura District,Mant,Rajesh Chaudhary,BJP,83958,37.35,74378,Shyam Sundar Sharma,BSP,33.09,9580,4.26,10 February 2022
+82,83,Mathura District,Goverdhan,Thakur Meghashyam Singh,BJP,100199,45.21,57692,Rajkumar Rawat,BSP,26.03,42507,19.18,10 February 2022
+83,84,Mathura District,Mathura,Shrikant Sharma,BJP,158859,60.26,49056,Pradeep Mathur,INC,18.61,109803,41.65,10 February 2022
+84,85,Mathura District,Baldev (SC),Pooran Prakash Jatav,BJP,108414,44.14,83159,Babita Devi,RLD,33.86,25255,10.28,10 February 2022
+85,86,Agra District,Etmadpur,Dharampal Singh,BJP,146603,48.77,98679,Praval Pratap Singh,SP,32.83,47924,15.94,10 February 2022
+86,87,Agra District,Agra Cantonment (SC),G S Dharmesh,BJP,117796,46.78,69099,Kunwar  Chand,SP,27.44,48697,19.34,10 February 2022
+87,88,Agra District,Agra South (SC),Yogendra Upadhyaya,BJP,109262,52.39,52622,Vinay Agarwal,SP,25.23,56640,27.16,10 February 2022
+88,89,Agra District,Agra North,Purushottam Khandelwal,BJP,153817,63.89,41447,Shabbir Abbas,BSP,17.22,112370,46.67,10 February 2022
+89,90,Agra District,Agra Rural (SC),Baby Rani Maurya,BJP,137310,52.63,60702,Kiran Prabha Keshari,BSP,23.26,76608,29.37,10 February 2022
+90,91,Agra District,Fatehpur Sikri,Babulal Chaudhary,BJP,112095,46.14,64826,Brijesh Chahar,RLD,26.69,47269,19.45,10 February 2022
+91,92,Agra District,Kheragarh,Bhagwan Singh Kushwaha,BJP,96574,47.05,60077,Ramnath Shikarwar,INC,29.27,36497,17.78,10 February 2022
+92,93,Agra District,Fatehabad,Chhotelal Verma,BJP,108811,50.46,55576,Rupali Dixit,SP,25.77,53235,24.69,10 February 2022
+93,94,Agra District,Bah,Rani Pakshalika Singh,BJP,78360,41.16,54125,Madhusudan Sharma,SP,28.43,24235,12.73,10 February 2022
+94,95,Firozabad District,Tundla (SC),Prempal Singh Dhangar,BJP,122881,49.46,75190,Rakesh Babu,SP,30.26,47691,19.2,20 February 2022
+95,96,Firozabad District,Jasrana,Sachin Yadav,SP,108289,43.71,107453,Manvendra Lodhi,BJP,43.37,836,0.34,20 February 2022
+96,97,Firozabad District,Firozabad,Manish Asija,BJP,112509,43.43,79554,Saifur Rehman,SP,30.71,32955,12.72,20 February 2022
+97,98,Firozabad District,Shikohabad,Mukesh Verma,SP,106279,45.14,96951,Omprakash Verma,BJP,41.18,9328,3.96,20 February 2022
+98,99,Firozabad District,Sirsaganj,Sarvesh Singh,SP,96224,46.22,87419,Hariom Yadav,BJP,41.99,8805,4.23,20 February 2022
+99,100,Kasganj District,Kasganj,Devendra Singh,BJP,123410,52.67,77145,Man Pal Singh,SP,32.92,46265,19.75,20 February 2022
+100,101,Kasganj District,Amanpur,Hariom Verma,BJP,96377,50.4,53048,Satybhan Shakya,SP,27.74,43329,22.66,20 February 2022
+101,102,Kasganj District,Patiyali,Nadira Sultan,SP,91545,41.88,87957,Mamtesh Shakya,BJP,40.06,4001,1.82,20 February 2022
+102,103,Etah District,Aliganj,Satyapal Singh Rathore,BJP,102873,45.44,99063,Rameshwar Singh Yadav,SP,43.76,3810,1.68,20 February 2022
+103,104,Etah District,Etah,Vipin Verma David,BJP,97539,46.34,80292,Jugendra Singh Yadav,SP,38.15,17247,8.19,20 February 2022
+104,105,Etah District,Marhara,Virendra Singh Lodhi,BJP,101387,49.01,83778,Amit Gaurav,SP,40.5,17609,8.51,20 February 2022
+105,106,Etah District,Jalesar,Sanjeev Kumar Diwakar,BJP,91339,45.1,86898,Ranjeet Suman,SP,42.91,4441,2.19,20 February 2022
+106,107,Mainpuri District,Mainpuri,Jaiveer Singh,BJP,99814,46.73,93048,Raj Kumar,SP,43.56,6766,3.17,20 February 2022
+107,108,Mainpuri District,Bhongaon,Ram Naresh Agnihotri,BJP,97208,45.18,92441,Alok Shakya,SP,42.97,4767,2.21,20 February 2022
+108,109,Mainpuri District,Kishni (SC),Brajesh Katheriya,SP,97070,49.58,77919,Priya Ranjan Ashu Diwakar,BJP,39.8,19151,9.78,20 February 2022
+109,110,Mainpuri District,Karhal,Akhilesh Yadav,SP,148196,60.12,80692,S.P. Singh Baghel,BJP,32.74,67504,27.38,20 February 2022
+110,111,Sambhal District,Gunnaur,Ramkhiladi Singh Yadav,SP,123969,51.38,94440,Ajeet Kumar Yadav,BJP,39.14,29529,12.24,14 February 2022
+111,112,Budaun District,Bisauli (SC),Ashutosh Maurya,SP,110569,44.23,108735,Kushagra Sagar,BJP,43.5,1834,0.73,14 February 2022
+112,113,Budaun District,Sahaswan,Brajesh Yadav,SP,83673,33.35,69728,Haji Vittan Musarrat,BSP,27.79,13945,5.56,14 February 2022
+113,114,Budaun District,Bilsi,Harish Chandra Shakya,BJP,93500,45.54,68385,Chandra Prakash Maurya,SP,33.31,25115,12.23,14 February 2022
+114,115,Budaun District,Badaun,Mahesh Chandra Gupta,BJP,101096,46.12,89917,Raish Ahmed,SP,41.02,11179,5.1,14 February 2022
+115,116,Budaun District,Shekhupur,Himanshu Yadav,SP,105531,42.84,99431,Dharmendra Shakya,BJP,40.36,6100,2.48,14 February 2022
+116,117,Budaun District,Dataganj,Rajeev Kumar Singh,BJP,107591,45.34,98115,Arjun Singh,SP,41.35,9476,3.99,14 February 2022
+117,118,Bareilly District,Baheri,Ataur Rehman,SP,124145,46.67,120790,Chhatra Pal Singh,BJP,45.41,3355,1.26,14 February 2022
+118,119,Bareilly District,Meerganj,DC Verma,BJP,116435,50.98,83955,Sultan Beg,SP,36.76,32840,14.22,14 February 2022
+119,120,Bareilly District,Bhojipura,Shazil Islam Ansari,SP,119402,45.88,109993,Bahoranlal Maurya,BJP,42.26,9409,3.62,14 February 2022
+120,121,Bareilly District,Nawabganj,Dr. M.P. Aarya Gangwar,BJP,111113,48.2,101876,Bhagwat Sharan Gangwar,SP,44.2,9237,4,14 February 2022
+121,122,Bareilly District,Faridpur (SC),Dr. Shyam Bihari Lal,BJP,92070,45.22,89149,Vijay Pal Singh,SP,43.78,2921,1.44,14 February 2022
+122,123,Bareilly District,Bithari Chainpur,Raghavendra Sharma,BJP,115417,46.53,99576,Agam Maurya,SP,40.15,15841,6.38,14 February 2022
+123,124,Bareilly District,Bareilly,Dr. Arun Kumar Saxena,BJP,129014,53.77,96694,Rajesh Aggarwal,SP,40.3,32320,13.47,14 February 2022
+124,125,Bareilly District,Bareilly Cantt,Sanjeev Agarwal,BJP,98931,50.43,88163,Supriya Arun,SP,44.94,10768,5.49,14 February 2022
+125,126,Bareilly District,Aonla,Dharampal Singh,BJP,88956,46.45,70532,Pt. Radha Krishan Sharma,SP,36.83,18424,9.62,14 February 2022
+126,127,Pilibhit District,Pilibhit,Sanjay Gangwar,BJP,125506,48.08,118536,Shailendra Gangwar,SP,45.41,6970,2.67,23 February 2022
+127,128,Pilibhit District,Barkhera,Swami Pravaktanand,BJP,151771,63.8,70299,Hemraj Verma,SP,29.55,81472,34.25,23 February 2022
+128,129,Pilibhit District,Puranpur (SC),Baburam Paswan,BJP,134404,50.12,107828,Ms Arti,SP,40.21,26576,9.91,23 February 2022
+129,130,Pilibhit District,Bisalpur,Vivek Kumar Verma,BJP,121142,50.55,70733,Divya Gangwar,SP,29.52,50409,21.03,23 February 2022
+130,131,Shahjahanpur District,Katra,Veer Vikram Singh,BJP,77800,39.9,77443,Rajesh Yadav,SP,39.72,357,0.18,14 February 2022
+131,132,Shahjahanpur District,Jalalabad,Hari Prakash Verma,BJP,99609,45.97,95037,Niraj Nilinesh,SP,43.86,4572,2.11,14 February 2022
+132,133,Shahjahanpur District,Tilhar,Salona Kushwaha,BJP,102307,47.93,89030,Roshan Lal Verma,SP,41.71,13277,6.22,14 February 2022
+133,134,Shahjahanpur District,Powayan (SC),Chetram Pasi,BJP,129785,55.62,78207,Upendra Pal Singh,SP,33.62,51578,22,14 February 2022
+134,135,Shahjahanpur District,Shahjahanpur,Suresh Kumar Khanna,BJP,109942,48.98,100629,Tanveer Khan,SP,44.83,9313,4.15,14 February 2022
+135,136,Shahjahanpur District,Dadraul,Manvendra Singh,BJP,100957,45.06,91256,Rajesh Kumar Verma,SP,40.73,9701,4.33,14 February 2022
+136,137,Lakhimpur Kheri District,Palia,Harvinder Kumar Sahni,BJP,118864,50.2,80735,Pritinder Singh Kakku,SP,34.1,38129,16.1,23 February 2022
+137,138,Lakhimpur Kheri District,Nighasan,Shashank Verma,BJP,126488,53.41,85479,R S Kushwaha,SP,36.1,41009,17.31,23 February 2022
+138,139,Lakhimpur Kheri District,Gola Gokrannath,Arvind Giri,BJP,126534,48.67,97240,Vinay Tiwari,SP,37.4,29294,11.27,23 February 2022
+139,140,Lakhimpur Kheri District,Sri Nagar (SC),Manju Tyagi,BJP,108249,47.21,90641,Ram Sharan,SP,39.53,17608,7.68,23 February 2022
+140,141,Lakhimpur Kheri District,Dhaurahra,Vinod Shakar Awasthi,BJP,113498,49.49,88888,Varun Singh,SP,38.76,24610,10.73,23 February 2022
+141,142,Lakhimpur Kheri District,Lakhimpur,Yogesh Verma,BJP,127663,47.38,107085,Utkarsh Verma Madhur,SP,39.74,20578,7.64,23 February 2022
+142,143,Lakhimpur Kheri District,Kasta (SC),Saurabh Singh Sonu,BJP,103315,47.93,89498,Sunil Kumar Lala,SP,41.52,13817,6.41,23 February 2022
+143,144,Lakhimpur Kheri District,Mohammdi,Lokendra Pratap Singh,BJP,99377,42.75,94506,Daud Ahmad,SP,40.66,4871,2.09,23 February 2022
+144,145,Sitapur District,Maholi,Shashank Trivedi,BJP,112040,44.73,99868,Anoop Kumar Gupta,SP,39.87,12172,4.86,23 February 2022
+145,146,Sitapur District,Sitapur,Rakesh Rathour,BJP,99349,42.72,98096,Radhe Shyam Jaiswal,SP,42.18,1253,0.54,23 February 2022
+146,147,Sitapur District,Hargaon (SC),Suresh Rahi,BJP,116691,52.46,78531,Ramhet Bharti,SP,35.31,38160,17.15,23 February 2022
+147,148,Sitapur District,Laharpur,Anil Kumar Verma,SP,112987,47.05,99832,Suneel Verma,BJP,41.57,13155,5.48,23 February 2022
+148,149,Sitapur District,Biswan,Nirmal Verma,BJP,106014,44.77,95536,Afzaal Kausar,SP,40.35,10478,4.42,23 February 2022
+149,150,Sitapur District,Sevata,Gyan Tiwari,BJP,108057,47.43,87619,Mahendra Kumar Singh,SP,39.34,20438,8.09,23 February 2022
+150,151,Sitapur District,Mahmoodabad,Asha Maurya,BJP,92091,41.91,86869,Narendra Singh Verma,SP,39.51,5222,2.4,23 February 2022
+151,152,Sitapur District,Sidhauli (SC),Manish Rawat,BJP,106222,43.58,96506,Dr. Hargovind Bhargawa,SP,39.6,9716,3.98,23 February 2022
+152,153,Sitapur District,Misrikh (SC),Ramkrishna Bhargava,BJP,91092,41.15,79627,Manoj Kumar Raghuvanshi,SBSP,35.97,11465,5.18,23 February 2022
+153,154,Hardoi District,Sawayazpur,Madhavendra Pratap,BJP,114623,46.03,88576,Padamrag Singh Yadav,SP,35.68,26047,10.35,23 February 2022
+154,155,Hardoi District,Shahabad,Rajni Tiwari,BJP,94561,40.49,88082,Asif Khan Babbu,SP,37.72,6479,2.77,23 February 2022
+155,156,Hardoi District,Hardoi,Nitin Agarwal,BJP,126750,53.19,84339,Anil Verma,SP,35.39,42411,17.8,23 February 2022
+156,157,Hardoi District,Gopamau (SC),Shyam Prakash,BJP,91762,43.07,83764,Rajeshwari,SP,39.32,7998,3.75,23 February 2022
+157,158,Hardoi District,Sandi (SC),Prabhash Kumar,BJP,81519,41.7,72286,Usha Verma,SP,36.97,9233,4.73,23 February 2022
+158,159,Hardoi District,Bilgram-Mallanwan,Ashish Kumar Singh ‘Ashu',BJP,82075,34.96,57185,Brijesh Kumar Verma,SP,24.36,24890,10.6,23 February 2022
+159,160,Hardoi District,Balamau (SC),Rampal Verma,BJP,81994,42.84,55570,Rambali Verma,SP,29.13,26424,13.71,23 February 2022
+160,161,Hardoi District,Sandila,Alka Singh,BJP,101730,49.76,64627,Abdul Mannan,BSP,31.61,37103,18.15,23 February 2022
+161,162,Unnao District,Bangarmau,Shrikant Kotiyar,BJP,90980,44.7,75187,Dr. Munna,SP,36.94,15793,7.76,23 February 2022
+162,163,Unnao District,Safipur (SC),Bambalal,BJP,102968,52.13,68836,Sudhir Kumar,SP,34.85,34132,17.28,23 February 2022
+163,164,Unnao District,Mohan (SC),Brajrsh Kumar,BJP,113291,53.45,70112,Dr. Anchal,SP,33.08,43179,20.37,23 February 2022
+164,165,Unnao District,Unnao,Pankaj Gupta,BJP,126670,51.62,95542,Abhinav Kumar,SP,38.94,31128,12.68,23 February 2022
+165,166,Unnao District,Bhagwantnagar,Ashutosh Shukla,BJP,127118,51.28,84108,Ankit Parihar,SP,33.93,43010,17.35,23 February 2022
+166,167,Unnao District,Purwa,ANIL KUMAR SINGH,BJP,133827,52.27,102766,Uday Raj,SP,40.14,31061,12.13,23 February 2022
+167,168,Lucknow District,Malihabad (SC),Jai Devi,BJP,106372,44.15,98627,Surendra Kumar,SP,40.93,7745,3.22,23 February 2022
+168,169,Lucknow District,Bakshi Kaa Talab,Yogesh Shukla,BJP,147922,46.36,120134,Gomti Yadav,SP,37.65,27788,8.71,23 February 2022
+169,170,Lucknow District,Sarojini Nagar,Rajeshwar Singh,BJP,160626,49.07,104440,Abhishek Mishra,SP,31.9,56186,17.17,23 February 2022
+170,171,Lucknow District,Lucknow West,Armaan Khan,SP,124497,48.19,116313,Anjali Kumar Srivastava,BJP,45.03,8184,3.16,23 February 2022
+171,172,Lucknow District,Lucknow North,Dr. Neeraj Bora,BJP,139159,53.3,105206,Pooja Shukla,SP,40.29,33953,13.01,23 February 2022
+172,173,Lucknow District,Lucknow East,Ashutosh Tandon,BJP,152928,59.4,84197,Anurag Bhadouria,SP,32.7,68731,26.7,23 February 2022
+173,174,Lucknow District,Lucknow Central,Ravidas Mehotra,SP,104488,49.62,93553,Rajnish Kumar Gupta,BJP,44.43,10935,5.19,23 February 2022
+174,175,Lucknow District,Lucknow Cantonment,Brajesh Pathak,BJP,108147,54.7,68635,Surendra Singh Gandhi 'Raju Gandhi',SP,34.71,39512,19.99,23 February 2022
+175,176,Lucknow District,Mohanlalganj (SC),Amresh Kumar,BJP,107089,43.58,90541,Sushila Saroj,SP,36.84,16548,6.74,23 February 2022
+176,177,Raebareli District,Bachhrawan (SC),Shyam Sunder,SP,65747,31.38,62935,Laxmikant,AD(S),30.04,2812,1.34,23 February 2022
+177,178,Amethi District,Tiloi,Mayankeshwar Sharan Singh,BJP,99472,48.54,71643,Mohd Naim,SP,34.96,27829,13.58,27 February 2022
+178,179,Raebareli District,Harchandpur,Rahul Rajpoot,SP,92498,45.87,78009,Rakesh Singh,BJP,38.69,14489,7.18,23 February 2022
+179,180,Raebareli District,Rae Bareli,Aditi Singh,BJP,102429,44.51,95254,Ram Pratap Yadav,SP,41.4,7175,3.11,23 February 2022
+180,181,Raebareli District,Salon (SC),Ashok Kumar,BJP,87715,43.79,85604,Jagdish Prasad,SP,42.73,1511,1.06,27 February 2022
+181,182,Raebareli District,Sareni,Devendra Pratap Singh,SP,66166,30.53,62359,Dhirendra Bahadur Singh,BJP,28.78,3807,1.75,23 February 2022
+182,183,Raebareli District,Unchahar,Manoj Kumar Pandey,SP,82514,38.92,75893,Amarpal Maurya,BJP,35.79,6621,3.13,23 February 2022
+183,184,Amethi District,Jagdishpur (SC),Suresh Kumar,BJP,89315,43.94,66491,Vijay Kumar,INC,32.71,22824,11.23,27 February 2022
+184,185,Amethi District,Gauriganj,Rakesh Pratap Singh,SP,79040,38.96,72077,Chandra Prakash Mishra Matiyari,BJP,35.53,6963,3.43,27 February 2022
+185,186,Amethi District,Amethi,Maharaj Prajapati,SP,88217,46.46,70121,Sanjaya Sinh,BJP,39.93,18096,6.53,27 February 2022
+186,187,Sultanpur District,Isauli,Mohd Tahir Khan,SP,69629,34.34,69360,Om Prakash Pandey,BJP,34.21,269,0.13,27 February 2022
+187,188,Sultanpur District,Sultanpur,Vinod Singh,BJP,92715,42.24,91706,Anoop Sanda,SP,41.78,1009,0.46,27 February 2022
+188,189,Sultanpur District,Sultanpur Sadar,Raj Prasad Upadhyay,BJP,85249,41.89,69495,Arun Verma,SP,34.15,15754,7.74,27 February 2022
+189,190,Sultanpur District,Lambhua,Sitaram Verma,BJP,82999,39.37,73466,Santosh Pandey,SP,34.85,9533,4.52,27 February 2022
+190,191,Sultanpur District,Kadipur (SC),Rajesh Kumar Gautam,BJP,96405,43.44,70682,Bhagelu Ram,SP,31.85,25723,11.59,27 February 2022
+191,192,Farrukhabad District,Kaimganj,Dr. Surabhi,AD(S),114952,47.65,96409,Sarvesh Ambedkar,SP,39.97,18543,7.68,20 February 2022
+192,193,Farrukhabad District,Amritpur,Sushil Kumar Shakya,BJP,98848,53.1,54162,Dr. Jitendra Singh Yadav,SP,29.1,44686,24,20 February 2022
+193,194,Farrukhabad District,Farrukhabad,Major Sunil Dutt Trivedi,BJP,112314,53.83,72988,Suman Shakya,SP,34.99,39326,18.84,20 February 2022
+194,195,Farrukhabad District,Bhojpur,Nagendra Singh Rathore,BJP,99979,50.68,72521,Arshad Jamal Siddiqui,SP,36.76,27468,13.92,20 February 2022
+195,196,Kannauj District,Chhibramau,Archana Pandey,BJP,124773,44.31,123662,Arvind Singh Yadav,SP,43.91,1111,0.4,20 February 2022
+196,197,Kannauj District,Tirwa,Kailash Singh Rajput,BJP,106089,44.51,101481,Anil Kumar Pal,SP,42.57,4608,1.94,20 February 2022
+197,198,Kannauj District,Kannauj (SC),Asim Arun,BJP,120876,44.53,114786,Anil Kumar Dohare,SP,42.29,6090,2.24,20 February 2022
+198,199,Etawah District,Jaswantnagar,Shivpal Singh Yadav,SP,159718,62.97,68739,Vivek Shakya,BJP,27.1,90979,35.87,20 February 2022
+199,200,Etawah District,Etawah,Sarita Bhadauria,BJP,98150,39.97,94166,Sarvesh Kumar Shakya,SP,38.35,3984,1.62,20 February 2022
+200,201,Etawah District,Bharthana (SC),Raghavendra Gautam,SP,103676,42.02,96117,Siddharth Shanker,BJP,38.96,7559,3.06,20 February 2022
+201,202,Auraiya District,Bidhuna,Rekha Verma,SP,92757,42.59,89492,Riya Shakya,BJP,39.19,3265,3.4,20 February 2022
+202,203,Auraiya District,Dibiyapur,Pradeep Kumar Yadav,SP,80865,40.34,80392,Lakhan Singh Rajput,BJP,40.1,473,0.24,20 February 2022
+203,204,Auraiya District,Auraiya (SC),Gudiya Katheriya,BJP,88631,45.28,66184,Jitendra Kumar Dohare,SP,33.81,22447,11.47,20 February 2022
+204,205,Kanpur Dehat District,Rasulabad (SC),Poonam Sankhwar,BJP,91783,46.77,70271,Kamlesh Chandra Diwakar,SP,35.8,21512,10.97,20 February 2022
+205,206,Kanpur Dehat District,Akbarpur-Raniya,Pratibha Shukla,BJP,92827,43.82,79410,Dr. Ram Prakash Kushwaha,SP,37.49,13417,6.33,20 February 2022
+206,207,Kanpur Dehat District,Sikandra,Ajit Singh Pal,BJP,89461,44.89,57894,Prabhakar Pandey,SP,29.05,31567,15.84,20 February 2022
+207,208,Kanpur Dehat District,Bhognipur,Rakesh Sachan,BJP,87809,40.25,75916,Narendra Pal Singh,SP,34.8,11893,5.45,20 February 2022
+208,209,Kanpur Nagar District,Bilhaur (SC),Rahul Bachha Sonkar,BJP,123094,50.34,80743,Rachna Singh,SP,33.02,42351,17.32,20 February 2022
+209,210,Kanpur Nagar District,Bithoor,Abhijeet Singh Sanga,BJP,107330,44.46,86257,Munendra Shukla,SP,35.73,21073,8.73,20 February 2022
+210,211,Kanpur Nagar District,Kalyanpur,Neelima Katiyar,BJP,98997,52.71,77462,Satish Kumar Nigam,SP,41.24,21535,11.47,20 February 2022
+211,212,Kanpur Nagar District,Govindnagar,Surendra Maithani,BJP,117501,61.03,36605,Vikas Yadav,SP,19.05,80896,41.98,20 February 2022
+212,213,Kanpur Nagar District,Sishamau,Haji Irfan Solanki,SP,79163,50.68,66897,Salil Vishnoi,BJP,42.83,12266,7.85,20 February 2022
+213,214,Kanpur Nagar District,Arya Nagar,Amitabh Bajpai,SP,76897,50.56,68973,Suresh Awasthi,BJP,45.35,7924,5.21,20 February 2022
+214,215,Kanpur Nagar District,Kidwai Nagar,Mahesh Trivedi,BJP,114111,55.39,76351,Ajay Kapoor,INC,37.06,37760,18.33,20 February 2022
+215,216,Kanpur Nagar District,Kanpur Cantonment,Mohammed Hasan,SP,94729,49.99,74742,Raghunandan Singh Bhadauria,BJP,39.44,19987,10.55,20 February 2022
+216,217,Kanpur Nagar District,Maharajpur,Satish Mahana,BJP,152883,60.6,70622,Fateh Bahadur Singh Gill,SP,28,82261,32.6,20 February 2022
+217,218,Kanpur Nagar District,Ghatampur (SC),Saroj Kureel,AD(S),81727,41.6,67253,Bhagwati Prasad Sagar,SP,34.23,14474,7.37,20 February 2022
+218,219,Jalaun District,Madhogarh,Moolchandra Singh,BJP,105231,41.29,70257,Sheetal Kushwaha,BSP,27.57,34974,13.72,20 February 2022
+219,220,Jalaun District,Kalpi,Vinod Chaturvedi,SP,69782,29.48,66966,Chhote Singh,NISHAD,28.29,816,1.19,20 February 2022
+220,221,Jalaun District,Orai (SC),Gauri Shankar,BJP,128644,47.45,90996,Dayashankar Verma,SP,33.56,37648,13.89,20 February 2022
+221,222,Jhansi District,Babina,Rajeev Singh 'Parichha',BJP,118343,50.44,73814,Yashpal Singh Yadav,SP,31.46,44529,18.98,20 February 2022
+222,223,Jhansi District,Jhansi Nagar,Ravi Sharma,BJP,148262,58.65,71909,Sitaram Kushwaha,SP,28.45,76353,30.2,20 February 2022
+223,224,Jhansi District,Mauranipur (SC),Rashmi Arya,AD(S),143577,51.83,84982,Tilak Chandra Ahirwar,SP,30.68,58595,21.15,20 February 2022
+224,225,Jhansi District,Garautha,Jawahar Singh Rajput,BJP,114059,48.34,80397,Deep Narayan Singh,SP,34.07,33662,14.27,20 February 2022
+225,226,Lalitpur District,Lalitpur,Ramratan Kushwaha,BJP,176550,52.99,69335,Chandrabhusan Singh Bundela Guddu Raja,BSP,20.81,107215,32.18,20 February 2022
+226,227,Lalitpur District,Mehroni (SC),Manohar Lal,BJP,184778,54.86,74327,Kiran Ramesh Khatik,BSP,22.07,110451,32.79,20 February 2022
+227,228,Hamirpur District,Hamirpur,Manoj Kumar Prajapati,BJP,105432,40.14,79947,Ram Prakash Prajapati,SP,30.44,25485,9.7,20 February 2022
+228,229,Hamirpur District,Rath (SC),Manisha Anuragi,BJP,139373,53.79,77394,Chandravati,SP,29.87,61979,23.92,20 February 2022
+229,230,Mahoba District,Mahoba,Rakesh Goswami,BJP,94490,45.61,51043,Manoj Tiwari,SP,24.64,43447,20.97,20 February 2022
+230,231,Mahoba District,Charkhari,Brijbhushan Rajpoot,BJP,102051,45.75,60170,Ramjeevan Yadav,SP,26.97,41881,18.78,20 February 2022
+231,232,Banda District,Tindwari,Ramakesh Nishad,BJP,86812,44.24,58387,Brijesh Prajapati,SP,29.76,28425,14.48,23 February 2022
+232,233,Banda District,Baberu,Vishambhar Singh Yadav,SP,79614,38.75,72221,Ajay Kumar,BJP,35.15,7393,3.6,23 February 2022
+233,234,Banda District,Naraini (SC),Smt. Ommani Verma,BJP,83263,38.91,76544,Kiran Verma,SP,35.77,6719,3.14,23 February 2022
+234,235,Banda District,Banda,Prakash Dwivedi,BJP,81557,41.34,66343,Manjula Singh,SP,33.63,15214,7.71,23 February 2022
+235,236,Chitrakoot District,Chitrakoot,Anil Pradhan Patel,SP,104771,43.23,83895,Chandrika Prasad Upadhyay,BJP,34.62,20876,8.61,27 February 2022
+236,237,Chitrakoot District,Manikpur,Avinash Chandra Dwivedi,AD(S),73132,35.17,72084,Veer Singh Patel,SP,34.67,1048,0.5,27 February 2022
+237,238,Fatehpur District,Jahanabad,Rajendra Singh Patel,BJP,78503,41.21,60311,Madan Gopal Verma,SP,31.66,18192,9.55,23 February 2022
+238,239,Fatehpur District,Bindki,Jai Kumar Singh Jaiki,AD(S),78165,40.96,74368,Rameshwar Dayal urf Dayalu Omer,SP,38.97,3797,1.99,23 February 2022
+239,240,Fatehpur District,Fatehpur,Chandra Prakash Lodhi,SP,96839,45.24,88238,Vikram Singh,BJP,41.22,8601,4.02,23 February 2022
+240,241,Fatehpur District,Ayah Shah,Vikas Gupta,BJP,71231,44.4,58225,Vishambhar Prasad Nishad,SP,36.3,13006,8.1,23 February 2022
+241,242,Fatehpur District,Husainganj,Smt. Usha Maurya,SP,91884,48.78,66703,Ranvendra Pratap Singh,BJP,35.41,25181,13.37,23 February 2022
+242,243,Fatehpur District,Khaga (SC),Krishna Paswan,BJP,83735,41.87,78226,Ramthirth Paramhans,SP,39.12,5509,2.75,23 February 2022
+243,244,Pratapgarh District,Rampur Khas,Aradhana Misra Mona,INC,84334,50.27,69593,Nagesh Pratap Singh,BJP,41.49,14741,8.78,27 February 2022
+244,245,Pratapgarh District,Babaganj (SC),Vinod Kumar,JD(L),67282,40.34,51515,Girish Chandra,SP,30.8,15767,9.54,27 February 2022
+245,246,Pratapgarh District,Kunda,Raghuraj Pratap Singh,JD(L),99612,50.58,69297,Gulshan Yadav,SP,35.19,30315,15.39,27 February 2022
+246,247,Pratapgarh District,Vishwanathganj,Jeet Lal Patel,AD(S),86829,43.21,38777,Saurabh Singh,SP,19.3,48052,23.91,27 February 2022
+247,248,Pratapgarh District,Pratapgarh,Rajendra Maurya,BJP,89762,45.8,64699,Krishna Patel,AD(K),33.01,25063,12.79,27 February 2022
+248,249,Pratapgarh District,Patti,Ram Singh,SP,108070,48.73,86019,Rajendra Pratap Singh,BJP,38.79,22051,9.94,27 February 2022
+249,250,Pratapgarh District,Raniganj,Rakesh Kumar Verma,SP,75583,40.05,72934,Dhiraj Ojha,BJP,38.65,2649,1.4,27 February 2022
+250,251,Kaushambi District,Sirathu,Pallavi Patel,SP,106278,46.49,98941,Keshav Prasad Maurya,BJP,43.28,7337,3.21,27 February 2022
+251,252,Kaushambi District,Manjhanpur (SC),Indrajit Saroj,SP,121506,47.2,97628,Lal Bahadur,BJP,37.93,23878,9.27,27 February 2022
+252,253,Kaushambi District,Chail,Pooja Pal,SP,88818,39.65,75609,Nagendra Pratap Singh Patel,AD(S),33.76,13209,5.89,27 February 2022
+253,254,Prayagraj District,Phaphamau,Guruprasad Maurya,BJP,91186,43.26,76862,Ansar Ahmad,SP,36.47,14324,36.372,27 February 2022
+254,255,Prayagraj District,Soraon (SC),Geeta Pasi,SP,91474,40.99,85884,Jamuna Prasad,AD(S),38.48,5590,2.51,27 February 2022
+255,256,Prayagraj District,Phulpur,Praveen Patel,BJP,103557,42,100825,Mujataba Siddiqui,SP,40.89,2732,1.11,27 February 2022
+256,257,Prayagraj District,Pratappur,Vijama Yadav,SP,91142,40.09,80186,Rakesh Dhar Tripathi,AD(S),35.27,10956,4.82,27 February 2022
+257,258,Prayagraj District,Handia,Hakim Lal Bind,SP,84417,39.36,80874,Prashant Kumar Singh Rahul,NISHAD,37.71,3543,1.65,27 February 2022
+258,259,Prayagraj District,Meja,Sandeep Singh,SP,78555,42.12,75116,Neelam Karwariya,BJP,40.28,3439,1.84,27 February 2022
+259,260,Prayagraj District,Karachhana,Piyush Ranjan Nishad,BJP,89527,44.06,80199,Ujjwal Raman Singh,SP,39.47,9328,4.59,27 February 2022
+260,261,Prayagraj District,Allahabad West,Sidharth Nath Singh,BJP,118759,53.29,88826,Richa Singh,SP,39.86,29933,13.43,27 February 2022
+261,262,Prayagraj District,Allahabad North,Harshvardhan Bajpai,BJP,96890,55.07,42007,Sandeep Yadav,SP,23.88,54883,31.19,27 February 2022
+262,263,Prayagraj District,Allahabad South,Nand Gopal Gupta,BJP,97864,54.14,71682,Raish Chandra Shukla,SP,39.66,26182,14.48,27 February 2022
+263,264,Prayagraj District,Bara (SC),Vachaspati,AD(S),89203,43.49,76739,Ajay Munna,SP,37.38,12464,6.11,27 February 2022
+264,265,Prayagraj District,Koraon (SC),Rajmani Kol,BJP,84587,40.74,60100,Ram Deo,SP,28.95,24487,11.79,27 February 2022
+265,266,Barabanki District,Kursi,Sakendra Pratap Verma,BJP,118720,41.15,118503,Rakesh Verma,SP,41.07,217,0.08,27 February 2022
+266,267,Barabanki District,Ramnagar,Fareed Mahfooz Kidwai,SP,98799,41.96,98538,Sharad Kumar Awasthi,BJP,41.85,261,0.11,27 February 2022
+267,268,Barabanki District,Barabanki,Dharmraj Singh Yadav,SP,125500,47.11,90450,Dr. Ramkumari Maurya,BJP,33.95,35050,13.16,27 February 2022
+268,269,Barabanki District,Zaidpur (SC),Gaurav Kumar,SP,113558,40.86,110576,Ambrish Rawat,BJP,39.79,2982,1.07,27 February 2022
+269,270,Barabanki District,Dariyabad,Satish Sharma,BJP,127983,46.87,95366,Arvind Kumar Singh Gope,SP,35.03,32617,11.84,27 February 2022
+270,271,Ayodhya District,Rudauli,Ram Chandra Yadav,BJP,94031,42.95,53415,Anand Sen,SP,24.4,40616,18.55,27 February 2022
+271,272,Barabanki District,Haidergarh (SC),Dinesh Rawat,BJP,117113,50.9,91422,Ram Magan Rawat,SP,39.73,25691,11.17,27 February 2022
+272,273,Ayodhya District,Milkipur (SC),Awadhesh Prasad,SP,103905,47.99,90567,Baba Gorakhnath,BJP,41.83,13338,6.16,27 February 2022
+273,274,Ayodhya District,Bikapur,Amit Singh Chauhan,BJP,107268,44.24,101708,Firoz Khan,SP,42.04,5560,2.2,27 February 2022
+274,275,Ayodhya District,Ayodhya,Ved Prakash Gupta,BJP,113414,49.04,93424,Tej Narayan Pandey,SP,40.4,19990,8.64,27 February 2022
+275,276,Ayodhya District,Goshainganj,Abhay Singh,SP,105863,43.87,92784,Arti Tiwari,BJP,38.45,13079,5.42,27 February 2022
+276,277,Ambedkar Nagar District,Katehari,Lalji Verma,SP,93524,37.78,85828,Avadhesh Kumar,NISHAD,34.67,7696,3.11,3 March 2022
+277,278,Ambedkar Nagar District,Tanda,Ram Murti Verma,SP,95263,43.49,63166,Kapil Deo,BJP,28.84,32097,14.65,3 March 2022
+278,279,Ambedkar Nagar District,Alapur (SC),Tribhuwan Dutt,SP,74165,35.55,64782,Triveniram,BJP,31.05,9383,4.5,3 March 2022
+279,280,Ambedkar Nagar District,Jalalpur,Rakesh Pandey,SP,93668,36.18,80038,Dr. Rajesh Singh,BSP,30.91,13630,5.27,3 March 2022
+280,281,Ambedkar Nagar District,Akbarpur,Ram Achal Rajbhar,SP,81391,38.14,69595,Dharmraj Nishad,BJP,32.39,12336,5.75,3 March 2022
+281,282,Bahraich District,Balha (SC),Saroj Sonkar,BJP,100483,46.78,83910,Akshaybar Nath Kanaujiya,SP,39.06,16573,7.72,27 February 2022
+282,283,Bahraich District,Nanpara,Ram Niwas Verma,AD(S),87689,43.91,75505,Madhuri Verma,SP,37.81,12184,6.1,27 February 2022
+283,284,Bahraich District,Matera,Mariya Shah,SP,102255,48.13,91827,Arun Veer Singh,BJP,43.24,10428,4.89,27 February 2022
+284,285,Bahraich District,Mahasi,Sureshwar Singh,BJP,117883,54.58,75199,Krishna Kumar Ojha,SP,34.82,42684,19.76,27 February 2022
+285,286,Bahraich District,Bahraich,Anupma Jaiswal,BJP,107628,46.45,103550,Yasar Shah,SP,44.69,4078,1.76,27 February 2022
+286,287,Bahraich District,Payagpur,Subhash Tripathi,BJP,110162,47.77,98106,Mukesh Srivastava,SP,42.54,12056,5.23,27 February 2022
+287,288,Bahraich District,Kaiserganj,Anand Kumar,SP,103195,45.51,95424,Gaurav Verma,BJP,42.11,7771,3.4,27 February 2022
+288,289,Shrawasti District,Bhinga,Indrani Devi,SP,103661,44.85,90087,Padam Sen Chaudhary,BJP,38.98,13574,5.87,27 February 2022
+289,290,Shrawasti District,Shrawasti,Ram Feran Pandey,BJP,98640,38.98,97183,Mohhamad Aslam Rainee,SP,38.4,1457,0.58,27 February 2022
+290,291,Balrampur District,Tulsipur,Kailash Nath,BJP,87092,42.92,51251,Zeba Rizwan,IND,25.27,35841,17.65,3 March 2022
+291,292,Balrampur District,Gainsari,Shiv Pratap Yadav,SP,75345,39.68,69508,Shailesh Kumar Singh,BJP,36.61,5837,3.07,3 March 2022
+292,293,Balrampur District,Utraula,Ram Pratap Verma,BJP,87162,44.43,65393,Haseeb Hasan Khan,SP,33.93,21769,10.5,3 March 2022
+293,294,Balrampur District,Balrampur (SC),Paltu Ram,BJP,101146,48.93,90175,Jagram Paswan,SP,43.62,10971,5.31,3 March 2022
+294,295,Gonda District,Mehnaun,Vinay Kumar Dwivedi,BJP,107237,50.05,84109,Nandita Shukla,SP,39.22,23128,10.83,27 February 2022
+295,296,Gonda District,Gonda,Prateek Bhushan Singh,BJP,96528,48.21,89828,Suraj Singh,SP,44.87,6700,3.34,27 February 2022
+296,297,Gonda District,Katra Bazar,Bawan Singh,BJP,112291,47.86,93834,Baijnath Dubey,SP,39.99,18457,7.87,27 February 2022
+297,298,Gonda District,Colonelganj,Ajay Kumar Singh,BJP,108109,55.8,72637,Yogesh Pratap Singh,SP,37.49,35472,18.31,27 February 2022
+298,299,Gonda District,Tarabganj,Prem Narayan Pandey,BJP,125325,59.39,71365,Ram Bhajan Chaubey,SP,33.95,53690,25.44,27 February 2022
+299,300,Gonda District,Mankapur (SC),Ramapati Shastri,BJP,105677,57.69,63328,Ramesh Chandra,SP,34.57,42349,23.12,27 February 2022
+300,301,Gonda District,Gaura,Prabhat Kumar Verma,BJP,73545,42.62,50571,Sanjay Kumar,SP,29.31,22974,13.31,27 February 2022
+301,302,Siddharthnagar District,Shohratgarh,Vinay Verma,AD(S),71062,37.46,46599,Prem Chand Nishad,SBSP,22.56,24463,14.9,3 March 2022
+302,303,Siddharthnagar District,Kapilvastu (SC),Shyamdhani Rahi,BJP,122940,48.72,92001,Vinay Paswan,SP,36.46,30939,12.26,3 March 2022
+303,304,Siddharthnagar District,Bansi,Jai Pratap Singh,BJP,84596,44.82,64256,Monu Dubey,SP,34.04,20340,10.78,3 March 2022
+304,305,Siddharthnagar District,Itwa,Mata Prasad Pandey,SP,64253,38.54,62591,Satish Chandra Dwiwedi,BJP,37.55,1662,0.99,3 March 2022
+305,306,Siddharthnagar District,Domariyaganj,Saiyadha Khatoon,SP,85098,41.19,84327,Raghvendra Pratap Singh,BJP,40.82,771,0.37,3 March 2022
+306,307,Basti District,Harraiya,Ajay Kumar Singh,BJP,88200,39.75,69871,Triyambak Pathak,SP,31.57,18329,8.18,3 March 2022
+307,308,Basti District,Kaptanganj,Kavindra Chaudhary,SP,94273,43.66,70094,Chandra Prakash Shukla,BJP,32.46,24179,11.2,3 March 2022
+308,309,Basti District,Rudhauli,Rajendra Chaudhary,SP,86360,36.82,71134,Sangeeta Pratap Jaiswal,BJP,30.33,15226,6.49,3 March 2022
+309,310,Basti District,Basti Sadar,Mahendra Nath Yadav,SP,86029,39.81,84250,Dayaram Choudhary,BJP,38.99,1779,0.82,3 March 2022
+310,311,Basti District,Mahadewa (SC),Doodh Ram,SBSP,83350,39.47,77855,Ravi Kumar Sonkar,BJP,36.87,5495,2.6,3 March 2022
+311,312,Sant Kabir Nagar District,Menhdawal,Anil Kumar Tripathi,NISHAD,90193,37.23,84970,Jay Chand,SP,35.08,5223,2.15,3 March 2022
+312,313,Sant Kabir Nagar District,Khalilabad,Ankur Tiwari,BJP,76086,30.36,63464,Digvijay Narayan,SP,25.32,12262,5.04,3 March 2022
+313,314,Sant Kabir Nagar District,Dhanghata (SC),Ganesh Chandra,BJP,83241,38.5,72688,Alagu Prasad,SBSP,33.62,10553,4.88,3 March 2022
+314,315,Maharajganj District,Pharenda,Virendra Chaudhary,INC,85181,40.28,83935,Bajrang Bahadur Singh,BJP,35.69,1246,4.59,3 March 2022
+315,316,Maharajganj District,Nautanwa,Rishi Tripathi,NISHAD,90263,40.03,74392,Kunwar Kaushal Singh,SP,33.23,15691,6.8,3 March 2022
+316,317,Maharajganj District,Siswa,Prem Sagar Patel,BJP,127673,50.05,64942,Sushil Kumar Tibrewal,SP,25.46,62731,24.59,3 March 2022
+317,318,Maharajganj District,Maharajganj (SC),Jai Mangal Kanojiya,BJP,136071,51.08,59168,Nirmesh Mangal,IND,22.53,76903,28.55,3 March 2022
+318,319,Maharajganj District,Paniyara,Gyanendra Singh,BJP,135463,52.11,74035,Krishnabhan Singh Sainthwar,SP,28.48,61428,23.63,3 March 2022
+319,320,Gorakhpur District,Caimpiyarganj,Fateh Bahadur Singh,BJP,122032,54.38,79376,Kajal Nishad,SP,35.37,42656,19.01,3 March 2022
+320,321,Gorakhpur District,Pipraich,Mahendra Pal Singh,BJP,141780,54.86,76423,Amrendra Nishad,SP,29.57,65357,25.29,3 March 2022
+321,322,Gorakhpur District,Gorakhpur Urban,Yogi Adityanath,BJP,165499,66.18,62109,Subhawati Upendra Dutt Shukla,SP,24.84,103390,41.34,3 March 2022
+322,323,Gorakhpur District,Gorakhpur Rural,Bipin Singh,BJP,126376,49.59,102306,Vijay Bahadur Yadav,SP,40.14,24070,9.45,3 March 2022
+323,324,Gorakhpur District,Sahajanwa,Pradeep Shukla,BJP,105981,47.21,62575,Yashwant Singh Rawat,SP,27.87,43406,19.34,3 March 2022
+324,325,Gorakhpur District,Khajani (SC),Sriram Chauhan,BJP,90210,45.31,53109,Rupawati Beldar,SP,26.71,37101,18.6,3 March 2022
+325,326,Gorakhpur District,Chauri-Chaura,Sarvan Kumar Nishad,BJP,91958,44.65,50831,Captain Brijesh Chandra Lal Paswan,SP,24.68,41127,19.97,3 March 2022
+326,327,Gorakhpur District,Bansgaon (SC),Vimlesh Paswan,BJP,87224,46.26,54915,Sanjay Kumar,SP,29.13,32209,17.13,3 March 2022
+327,328,Gorakhpur District,Chillupar,Rajesh Tripathi,BJP,96777,42.49,75132,Vinay Shankar Tiwari,SP,32.98,21645,9.51,3 March 2022
+328,329,Kushinagar District,Khadda,Vivek Anand Pandey,NISHAD,88291,43.08,46840,Vijay Pratap Kushwaha,IND,22.85,41451,20.23,3 March 2022
+329,330,Kushinagar District,Padrauna,Manish Jaiswal,BJP,114496,49.8,72488,Vikram Yadav,SP,31.53,42008,18.27,3 March 2022
+330,331,Kushinagar District,Tamkuhi Raj,Asim Kumar,BJP,115123,50.81,48651,Uday Narayan,SP,21.47,66472,29.34,3 March 2022
+331,332,Kushinagar District,Fazilnagar,Surendra Kumar Kushwaha,BJP,116029,51.61,71015,Swami Prasad Maurya,SP,31.15,45014,20.46,3 March 2022
+332,333,Kushinagar District,Kushinagar,Panchanand Pathak,BJP,115268,52.14,80478,Rajesh Pratap Rao,SP,36.4,34790,15.74,3 March 2022
+333,334,Kushinagar District,Hata,Mohan Verma,BJP,120666,55.7,61301,Ranvijay Singh,SP,28.3,59365,27.4,3 March 2022
+334,335,Kushinagar District,Ramkola (SC),Vinay Prakash Gond,BJP,124792,58.27,52249,Purnmasi Dehati,SBSP,24.4,72543,33.87,3 March 2022
+335,336,Deoria District,Rudrapur,Jai Prakash Nishad,BJP,78187,42.99,36251,Ram Bhuwal Nishad,SP,19.93,41936,23.06,3 March 2022
+336,337,Deoria District,Deoria,Shalabh Mani Tripathi,BJP,106701,53.52,66046,Ajay Pratap Singh Sainthwar,SP,33.13,40655,20.39,3 March 2022
+337,338,Deoria District,Pathardeva,Surya Pratap Shahi,BJP,93858,46.65,65177,Brahma Shankar Tripathi,SP,32.4,28681,14.25,3 March 2022
+338,339,Deoria District,Rampur Karkhana,Surendra Chaurasia,BJP,90742,43.85,76072,Ghazala Lari,SP,36.76,14670,7.09,3 March 2022
+339,340,Deoria District,Bhatpar Rani,Sabha Kumar Kushwaha,BJP,91282,46.98,73200,Ashutosh Upadhyay,SP,37.68,18082,9.3,3 March 2022
+340,341,Deoria District,Salempur (SC),Vijay Laxmi Gautam,BJP,82047,46.15,65439,Manbodh Prasad,SBSP,36.8,16608,9.35,3 March 2022
+341,342,Deoria District,Barhaj,Deepak Mishra,BJP,85758,46.33,68897,Murli Manohar Jaiswal,SP,37.22,16861,9.11,3 March 2022
+342,343,Azamgarh District,Atrauliya,Dr. Sangram Singh Yadav,SP,91502,39.55,74255,Prashant Singh,NISHAD,32.1,17247,7.45,7 March 2022
+343,344,Azamgarh District,Gopalpur,Nafis Ahmed,SP,84401,40.87,60094,Satyendra Rai,BJP,29.1,24307,11.77,7 March 2022
+344,345,Azamgarh District,Sagri,Hriday Narayan Singh Patel,SP,83093,42.76,60578,Smt. Vandana Singh,BJP,31.17,22515,11.59,7 March 2022
+345,346,Azamgarh District,Mubarakpur,Akhilesh Yadav,SP,80726,36.02,51623,Arvind Jaiswal,BJP,23.03,29103,12.99,7 March 2022
+346,347,Azamgarh District,Azamgarh,Durga Prasad Yadav,SP,100813,42.66,84777,Akhilesh Kumar Mishra,BJP,35.87,16036,6.79,7 March 2022
+347,348,Azamgarh District,Nizamabad,Alambadi,SP,79835,43.22,45648,Manoj,BJP,24.71,34187,18.51,7 March 2022
+348,349,Azamgarh District,Phoolpur Pawai,Ramakant Yadav,SP,81164,42,55858,Ramsurat Rajbhar,BJP,28.91,25306,13.09,7 March 2022
+349,350,Azamgarh District,Didarganj,Kamalakant Rajbhar,SP,74342,36.99,60781,Krishna Murari Vishwakarma,BJP,30.25,13561,6.74,7 March 2022
+350,351,Azamgarh District,Lalganj (SC),Bechai Saroj,SP,83767,38.31,69034,Neelam Sonkar,BJP,31.57,14733,6.74,7 March 2022
+351,352,Azamgarh District,Mehnagar (SC),Puja Saroj,SP,86960,39.35,72811,Manju Saroj,BJP,32.94,14149,6.41,7 March 2022
+352,353,Mau District,Madhuban,Ramvilash Chauhan,BJP,79032,35.24,74584,Umesh Pandey,SP,33.26,4448,1.98,7 March 2022
+353,354,Mau District,Ghosi,Dara Singh Chauhan,SP,108430,42.21,86214,Vijay Rajbhar,BJP,33.57,22216,8.64,7 March 2022
+354,355,Mau District,Muhammadabad-Gohna (SC),Rajendra Kumar,SP,94688,41.48,68039,Smt. Poonam Saroj,BJP,29.8,26649,11.68,7 March 2022
+355,356,Mau District,Mau,Abbas Ansari,SBSP,124691,44.69,86575,Ashok Singh,BJP,31.03,38116,13.66,7 March 2022
+356,357,Ballia District,Belthara Road (SC),Hansu Ram,SBSP,78995,39.57,73481,Chhattu Ram,BJP,36.81,5514,2.76,3 March 2022
+357,358,Ballia District,Rasara,Umashankar Singh,BSP,87887,43.82,81304,Mahendra,SBSP,40.54,6583,3.28,3 March 2022
+358,359,Ballia District,Sikanderpur,Jiyauddin Rizvi,SP,75446,42.75,63591,Sanjay Yadav,BJP,36.03,11855,6.72,3 March 2022
+359,360,Ballia District,Phephana,Sangram Singh,SP,92516,48.78,73162,Upendra Tiwari,BJP,38.57,19354,10.21,3 March 2022
+360,361,Ballia District,Ballia Nagar,Dayashankar Singh,BJP,103873,51.22,77634,Narad Rai,SP,38.28,26239,12.94,3 March 2022
+361,362,Ballia District,Bansdih,Smt. Ketakee Singh,BJP,103305,47.67,81953,Ram Govind Chaudhary,SP,37.82,21352,9.85,3 March 2022
+362,363,Ballia District,Bairia,Jai Prakash Anchal,SP,71241,40.33,58290,Anand Swarup Shukla,BJP,33,12951,7.33,3 March 2022
+363,364,Jaunpur District,Badlapur,Ramesh Chandra Mishra,BJP,82391,39.72,81065,Baba Dubey,SP,39.08,1326,0.64,7 March 2022
+364,365,Jaunpur District,Shahganj,Ramesh,NISHAD,87233,36.21,86514,Shailendra Yadav Lalai,SP,35.91,719,0.3,7 March 2022
+365,366,Jaunpur District,Jaunpur,Girish Yadav,BJP,97760,39.35,89708,Mohd. Arshad Khan,SP,36.11,8052,3.24,7 March 2022
+366,367,Jaunpur District,Malhani,Lucky Yadav,SP,97357,42.57,79830,Dhananjay Singh,JD(U),34.91,17527,7.66,7 March 2022
+367,368,Jaunpur District,Mungra Badshahpur,Pankaj,SP,92048,41.9,86818,Ajay Dubey,BJP,39.52,5230,2.38,7 March 2022
+368,369,Jaunpur District,Machhlishahr (SC),Dr. Ragini,SP,91659,41.99,83175,Mihilal Gautam,BJP,38.1,8484,3.89,7 March 2022
+369,370,Jaunpur District,Mariyahu,Dr. RK Patel,AD(S),76007,39.25,74801,Sushma Patel,SP,38.62,1206,0.63,7 March 2022
+370,371,Jaunpur District,Zafrabad,Jagdish Narayan,SBSP,90620,40.57,84328,Harendra Prasad Singh,BJP,37.76,6292,2.81,7 March 2022
+371,372,Jaunpur District,Kerakat (SC),Toofani Saroj,SP,94022,39.13,84178,Dinesh Choudhary,BJP,35.04,9844,4.09,7 March 2022
+372,373,Ghazipur District,Jakhanian (SC),Bedi,SBSP,113378,44.53,76513,Ramraj Vanvasi,BJP,30.05,36865,14.48,7 March 2022
+373,374,Ghazipur District,Saidpur (SC),Ankit Bharti,SP,109711,46.36,73076,Subhash Passi,BJP,30.88,36635,15.48,7 March 2022
+374,375,Ghazipur District,Ghazipur Sadar,Jai Kishan,SP,92472,40.81,90780,Sangeeta Balwant Bind,BJP,40.06,1692,0.75,7 March 2022
+375,376,Ghazipur District,Jangipur,Veerendra Yadav,SP,103125,44.75,68062,Ramnaresh Kushwah,BJP,29.53,35063,15.22,7 March 2022
+376,377,Ghazipur District,Zahoorabad,Om Prakash Rajbhar,SBSP,114860,46.45,69228,Kalicharan Rajbhar,BJP,21.49,45632,24.96,7 March 2022
+377,378,Ghazipur District,Mohammadabad,Munnu Ansari,SP,111443,45.26,92684,Alka Rai,BJP,37.64,18759,7.62,7 March 2022
+378,379,Ghazipur District,Zamania,Om Prakash Singh,SP,94695,40.57,72239,Sunita Singh,BJP,30.95,22456,9.62,7 March 2022
+379,380,Chandauli District,Mughalsarai,Ramesh Jaiswal,BJP,102216,42.4,87295,Chandra Shekhar Yadav,SP,36.21,14921,6.19,7 March 2022
+380,381,Chandauli District,Sakaldiha,Prabhunath Singh,SP,86328,40.7,69667,Suryamuni Tiwari,BJP,32.84,16661,7.86,7 March 2022
+381,382,Chandauli District,Saiyadraja,Sushil Singh,BJP,87891,41.85,76974,Manoj Kumar,SP,36.65,10917,5.2,7 March 2022
+382,383,Chandauli District,Chakia (SC),Kailash Kharvar,BJP,97812,39.63,88561,Jitendra Kumar,SP,35.88,9251,3.75,7 March 2022
+383,384,Varanasi District,Pindra,Awadhesh Kumar Singh,BJP,84325,38.23,48766,Babu Lal,BSP,22.11,35559,16.12,7 March 2022
+384,385,Varanasi District,Ajagara (SC),Tribhuwan Ram,BJP,101088,41.25,91928,Sunil Sonkar,SBSP,37.51,9160,3.74,7 March 2022
+385,386,Varanasi District,Shivpur,Anil Rajbhar,BJP,115231,45.76,87544,Arvind Rajbhar,SBSP,34.77,27687,10.99,7 March 2022
+386,387,Varanasi District,Rohaniya,Dr. Sunil Patel,AD(S),118663,48.08,72191,Abhay Patel,AD(K),29.25,46472,18.83,7 March 2022
+387,388,Varanasi District,Varanasi North,Ravindra Jaiswal,BJP,134471,54.61,93695,Ashfaque,SP,38.05,40776,16.56,7 March 2022
+388,389,Varanasi District,Varanasi South,Neelkanth Tiwari,BJP,99622,50.88,88900,Kameshwar (Kishan Dixit),SP,45.41,10722,5.47,7 March 2022
+389,390,Varanasi District,Varanasi Cantt.,Saurabh Srivastava,BJP,147833,60.63,60989,Pooja Yadav,SP,25.01,86844,35.62,7 March 2022
+390,391,Varanasi District,Sevapuri,Neel Ratan Singh Patel,BJP,105163,47.6,82632,Surendra Singh Patel,SP,37.41,22531,10.19,7 March 2022
+391,392,Bhadohi District,Bhadohi,Zahid Baig,SP,100738,40.24,95853,Ravindra Tripathi,BJP,38.29,4885,1.95,7 March 2022
+392,393,Bhadohi District,Gyanpur,Vipul Dubey,NISHAD,73446,34.12,67215,Ram Kishore Bind,SP,31.23,6231,2.89,7 March 2022
+393,394,Bhadohi District,Aurai (SC),Dinanath Bhashkar,BJP,93691,41.69,92044,Smt. Anjani,SP,40.95,1647,0.74,7 March 2022
+394,395,Mirzapur District,Chhanbey (SC),Rahul Prakash Kol,AD(S),102502,47.29,64389,Kirti,SP,29.71,38113,17.58,7 March 2022
+395,396,Mirzapur District,Mirzapur,Ratnakar Mishra,BJP,118642,52.09,78766,Kailash Chaurasia,SP,34.58,39876,17.51,7 March 2022
+396,397,Mirzapur District,Majhawan,Dr. Vinod Kumar Bind,NISHAD,103235,42.07,69648,Rohit Shukla,SP,28.38,33587,13.69,7 March 2022
+397,398,Mirzapur District,Chunar,Anurag Singh,BJP,110980,50.26,63366,Ramashankar Prasad Singh,AD(K),28.7,47614,21.56,7 March 2022
+398,399,Mirzapur District,Marihan,Ramashankar Patel,BJP,105377,44.51,42466,Narendra Singh Kushwaha,BSP,17.94,62911,26.57,7 March 2022
+399,400,Sonbhadra District,Ghorawal,Anil Kumar Maurya,BJP,101277,40.46,77355,Ramesh Chandra Dubey,SP,30.9,23922,9.56,7 March 2022
+400,401,Sonbhadra District,Robertsganj,Bhupesh Chaubey,BJP,84496,40.29,78875,Avinash Kushwaha,SP,37.61,5621,2.68,7 March 2022
+401,402,Sonbhadra District,Obra (ST),Sanjeev Kumar Gond,BJP,78364,48.04,51922,Arvind Kumar,SP,31.83,26442,16.21,7 March 2022
+402,403,Sonbhadra District,Duddhi (ST),Ram Dular Gaur,BJP,84407,41.28,78110,Vijay Singh Gour,SP,38.2,6297,3.08,7 March 2022
